@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Omkarnath's github stats](https://github-readme-stats.vercel.app/api?username=pomkarnath98&theme=radical&show_icons=true&hide=issues)
 <!--
 **pomkarnath98/pomkarnath98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
