@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Omkarnath's github stats](https://github-readme-stats.vercel.app/api?username=pomkarnath98&theme=radical&show_icons=true&hide=issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomkarnath98&exclude_repo=Instagram-Follower-Analysis&langs_count=8&layout=compact)
 <!--
 **pomkarnath98/pomkarnath98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
