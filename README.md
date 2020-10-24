@@ -4,8 +4,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
 ```javascript
-const anmol = {
+const omkarnath = {
     pronouns: "He" | "Him",
+    age: 21,
     code: ["Javascript", "Html", "CSS"],
     technologies: {
         frontEnd: {
@@ -18,6 +19,7 @@ const anmol = {
         databases: ["MongoDB"]
     },
     currentFocus: "Actively looking for a job for FullStack Developer role",
+    contactMe: "pomkarnath98@gmail.com" || "9090901991"
 };
 ```
 
