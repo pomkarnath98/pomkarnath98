@@ -1,4 +1,26 @@
-### Hi there 👋
+<h2>नमस्ते (Namaste)🙏🏻, I'm Omkarnath Parida! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Html", "CSS"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla JS", "React"],
+            css: ["Material UI", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "Express"]
+        },
+        databases: ["MongoDB"]
+    },
+    currentFocus: "Actively looking for a job for FullStack Developer role",
+};
+```
+
 ![Omkarnath's github stats](https://github-readme-stats.vercel.app/api?username=pomkarnath98&theme=radical&show_icons=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomkarnath98&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
 <!--
