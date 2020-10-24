@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Omkarnath Parida! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Omkarnath Parida! Thanks for your interest in my profile <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
@@ -7,6 +7,7 @@
 const omkarnath = {
     pronouns: "He" | "Him",
     age: 21,
+    location: "Bhubaneswar, Odisha, India"
     code: ["Javascript", "Html", "CSS"],
     technologies: {
         frontEnd: {
@@ -19,7 +20,7 @@ const omkarnath = {
         databases: ["MongoDB"]
     },
     currentFocus: "Actively looking for a job for FullStack Developer role",
-    contactMe: "pomkarnath98@gmail.com" || "9090901991"
+    contactMe: "pomkarnath98@gmail.com" || 9090901991
 };
 ```
 
