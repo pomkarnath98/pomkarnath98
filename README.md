@@ -19,7 +19,7 @@ const omkarnath = {
         },
         databases: ["MongoDB"]
     },
-    currentFocus: "Actively looking for a job for FullStack Developer role",
+    currentFocus: "Actively looking for a Software Developer job",
     contactMe: "pomkarnath98@gmail.com" || 9090901991
 };
 ```
