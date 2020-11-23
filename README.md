@@ -23,7 +23,7 @@ const omkarnath = {
     contactMe: "pomkarnath98@gmail.com" || 9090901991
 };
 ```
-![Omkarnath's github stats](https://github-readme-stats.vercel.app/api?username=pomkarnath98&count_private=true&theme=radical&show_icons=true&hide=issues)
+![Omkarnath's github stats](https://github-readme-stats.vercel.app/api?username=pomkarnath98&count_private=true&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pomkarnath98&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact&theme=radical)
 <!--
 **pomkarnath98/pomkarnath98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
