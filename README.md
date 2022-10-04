@@ -6,7 +6,6 @@
 ```javascript
 const omkarnath = {
     pronouns: "He" | "Him",
-    age: 21,
     location: "Bhubaneswar, Odisha, India",
     code: ["Javascript", "Html", "CSS"],
     technologies: {
