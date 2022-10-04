@@ -10,13 +10,13 @@ const omkarnath = {
     code: ["Javascript", "Html", "CSS"],
     technologies: {
         frontEnd: {
-            js: ["Vanilla JS", "React"],
-            css: ["Material UI", "Bootstrap"]
+            js: ["Vanilla JS", "React", "Vue"],
+            css: ["Material UI", "Bootstrap", "Tailwind"]
         },
         backEnd: {
             js: ["node", "Express"]
         },
-        databases: ["MongoDB"]
+        databases: ["MongoDB", "MySQL"]
     },
     contactMe: "pomkarnath98@gmail.com" || 9090901991
 };
